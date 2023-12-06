@@ -1,9 +1,6 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniela Bazán
 =====================================================================================================================================
 
-Software Engineer
------------------
-
 Industrial engineer turned passionate self-taught software engineer, fueled by the thrill of coding and problem-solving. Adept at self-learning, I transitioned from the realm of Industrial Engineering to embrace the dynamic world of software development.
 
 * ✉️  You can contact me at [daniela.e.bazan@hotmail.com](mailto:daniela.e.bazan@hotmail.com)
