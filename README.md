@@ -2,6 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =====================================================================================================================================
 
 I'm an Industrial Engineer on a journey to explore the exciting world of software development. My passion lies in leveraging technology to streamline processes and solve real-world problems.  
+
 🌐 I believe in the power of code to transform ideas into reality.  
 My journey includes:
 - 🛠️ Building intuitive and visually appealing projects using HTML, CSS, and JavaScript. 
