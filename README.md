@@ -1,11 +1,13 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniela Bazán
 =====================================================================================================================================
 
-I'm an Industrial Engineer on a journey to explore the exciting world of software development. My passion lies in leveraging technology to streamline processes and solve real-world problems. 🌐 I believe in the power of code to transform ideas into reality. 
+I'm an Industrial Engineer on a journey to explore the exciting world of software development. My passion lies in leveraging technology to streamline processes and solve real-world problems.  
+🌐 I believe in the power of code to transform ideas into reality.  
+
 My journey includes: 
-🛠️ Building intuitive and visually appealing projects using HTML, CSS, and JavaScript. 
-📊 Creating insightful data visualizations with Python's Matplotlib and Seaborn. 
-🔄 Automating mundane tasks to boost efficiency and eliminate manual errors.
+- 🛠️ Building intuitive and visually appealing projects using HTML, CSS, and JavaScript. 
+- 📊 Creating insightful data visualizations with Python's Matplotlib and Seaborn. 
+- 🔄 Automating mundane tasks to boost efficiency and eliminate manual errors.
 
 * ✉️  You can contact me at [daniela.e.bazan@hotmail.com](mailto:daniela.e.bazan@hotmail.com)
 
