@@ -7,9 +7,9 @@ I'm an Industrial Engineer on a journey to explore the exciting world of softwar
 My journey includes:
 - 🛠️ Building intuitive and visually appealing projects using HTML, CSS, and JavaScript. 
 - 📊 Creating insightful data visualizations with Python's Matplotlib and Seaborn. 
-- 🔄 Automating mundane tasks to boost efficiency and eliminate manual errors.
+- 🔄 Automating mundane tasks to boost efficiency and eliminate manual errors.  
 
-* ✉️  You can contact me at [daniela.e.bazan@hotmail.com](mailto:daniela.e.bazan@hotmail.com)
+ ✉️  You can contact me at [daniela.e.bazan@hotmail.com](mailto:daniela.e.bazan@hotmail.com)
 
 ### Skills
 
