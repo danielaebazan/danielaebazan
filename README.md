@@ -1,13 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Daniela Bazán
 =====================================================================================================================================
 
-I'm an Industrial Engineer on a journey to explore the exciting world of software development. My passion lies in leveraging technology to streamline processes and solve real-world problems.
-
-I believe in the power of code to transform ideas into reality. My journey includes:
-
-🛠️ Building intuitive and visually appealing projects using HTML, CSS, and JavaScript.
-📊 Creating insightful data visualizations with Python's Matplotlib and Seaborn.
-🔄 Automating mundane tasks to boost efficiency and eliminate manual errors.
+I'm an Industrial Engineer on a journey to explore the exciting world of software development. My passion lies in leveraging technology to streamline processes and solve real-world problems. 🌐 I believe in the power of code to transform ideas into reality. My journey includes: 🛠️ Building intuitive and visually appealing projects using HTML, CSS, and JavaScript. 📊 Creating insightful data visualizations with Python's Matplotlib and Seaborn. 🔄 Automating mundane tasks to boost efficiency and eliminate manual errors.
 
 * ✉️  You can contact me at [daniela.e.bazan@hotmail.com](mailto:daniela.e.bazan@hotmail.com)
 
@@ -19,5 +13,4 @@ I believe in the power of code to transform ideas into reality. My journey inclu
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/danielaebazan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
-
+<p align="left"> <a href="https://www.github.com/danielaebazan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/danielaebazan" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
