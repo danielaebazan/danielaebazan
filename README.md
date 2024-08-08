@@ -5,8 +5,9 @@ I'm an Industrial Engineer on a journey to explore the exciting world of softwar
 
 🌐 I believe in the power of code to transform ideas into reality.  
 
+ ✉️  Portfolio (https://danielaebazan.github.io/portfolio/)
  ✉️  You can contact me at [daniela.e.bazan@hotmail.com](mailto:daniela.e.bazan@hotmail.com)
-
+ 
 ### Skills
 
 <p align="left">
